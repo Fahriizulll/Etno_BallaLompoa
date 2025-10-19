@@ -15,8 +15,8 @@ Tur virtual 360 derajat untuk mengenalkan Rumah Balla Lompoa sebagai balai adat 
 ```text
 .
 ├── index.html          # Landing page tur virtual
-├── baruga.html         # Tur utama dengan tombol scene statis
-├── baruga_adv.html     # Tur lanjutan dengan navigasi dinamis dan hotspot
+├── ballalompoa.html         # Tur utama dengan tombol scene statis
+├── ballalompoa_adv.html     # Tur lanjutan dengan navigasi dinamis dan hotspot
 ├── admin.html          # Panel pengelolaan scene (client-side)
 ├── css/
 │   └── homestyle.css   # (opsional) ruang untuk gaya tambahan
@@ -42,11 +42,11 @@ Alternatif cepat: gunakan ekstensi Live Server (VS Code) atau layanan hosting st
 
 - Landing Page (`index.html`)
   - Menampilkan ringkasan Baruga, foto hero, dan tombol masuk ke tur virtual.
-- Tur Utama (`baruga.html`)
-  - Tombol 0-53 memuat scene secara langsung.
+- Tur Utama (`ballalompoa.html`)
+  - Tombol 0-2 memuat scene secara langsung.
   - Tombol "Tampilkan Minimap" membuka peta lokasi panorama.
   - Tombol "Nonaktifkan Drag" mengubah mode klik menjadi pembaca koordinat yaw/pitch.
-- Tur Lanjutan (`baruga_adv.html`)
+- Tur Lanjutan (`ballalompoa_adv.html`)
   - Grid tombol mempermudah lompatan lintas scene.
   - Tombol Prev/Next serta tombol panah keyboard mengatur urutan kunjungan.
   - Hotspot otomatis pada panorama menghubungkan scene sebelumnya dan berikutnya.
