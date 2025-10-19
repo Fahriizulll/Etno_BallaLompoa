@@ -1,6 +1,6 @@
-# Tur Virtual Rumah Adat Baruga
+# Tur Virtual Rumah Adat Balla Lompoa
 
-Tur virtual 360 derajat untuk mengenalkan Rumah Adat Baruga sebagai balai adat komunal. Proyek ini berfokus pada pengalaman interaktif melalui rangkaian panorama equirectangular, dilengkapi landing page informatif, dua varian tampilan tur, serta panel admin ringan untuk mengelola daftar scene.
+Tur virtual 360 derajat untuk mengenalkan Rumah Balla Lompoa sebagai balai adat komunal. Proyek ini berfokus pada pengalaman interaktif melalui rangkaian panorama equirectangular, dilengkapi landing page informatif, dua varian tampilan tur, serta panel admin ringan untuk mengelola daftar scene.
 
 ## Fitur Utama
 
